@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "71ED16FB10991D1073989AB8949FC669EDD0735C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0,
+    "700ADDE7BDB5E87DDA02F2F7FA1F46A0A243580D" : 0,
+    "B5742D9766EDC4109EA2FCC5540DD639F9685C37" : 0,
+    "71ED16FB10991D1073989AB8949FC669EDD0735C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F916926F-37D4-4048-A7B0-E8F0D6B88320",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "Around%20App\/Alamofire\/",
+    "700ADDE7BDB5E87DDA02F2F7FA1F46A0A243580D" : "Around%20App\/",
+    "B5742D9766EDC4109EA2FCC5540DD639F9685C37" : "Around%20App\/Around%20App\/",
+    "71ED16FB10991D1073989AB8949FC669EDD0735C" : "Around-iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Around App",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Around App.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alamofire\/Alamofire.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/huynhphuc185\/around-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "700ADDE7BDB5E87DDA02F2F7FA1F46A0A243580D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/huynhphuc185\/ios_around.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71ED16FB10991D1073989AB8949FC669EDD0735C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/huynhphuc185\/around-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B5742D9766EDC4109EA2FCC5540DD639F9685C37"
+    }
+  ]
+}

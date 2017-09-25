@@ -1,0 +1,222 @@
+
+/* Class = "UILabel"; text = "3$"; ObjectID = "0Wg-ii-EQa"; */
+"0Wg-ii-EQa.text" = "3$";
+
+/* Class = "UIButton"; normalTitle = "Buy now"; ObjectID = "4JR-Ns-rsi"; */
+"4JR-Ns-rsi.normalTitle" = "Buy now";
+
+/* Class = "UIButton"; normalTitle = "View all comments"; ObjectID = "51r-Cc-UNR"; */
+"51r-Cc-UNR.normalTitle" = "View all comments";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "5JP-nZ-adM"; */
+"5JP-nZ-adM.text" = "Total";
+
+/* Class = "UILabel"; text = "Service fee"; ObjectID = "6Fb-QZ-ClM"; */
+"6Fb-QZ-ClM.text" = "Service fee";
+
+/* Class = "UILabel"; text = "Lancome"; ObjectID = "8Lj-Pj-Ke7"; */
+"8Lj-Pj-Ke7.text" = "Lancome";
+
+/* Class = "UITextField"; placeholder = "Input drop place"; ObjectID = "94p-YP-tJ7"; */
+"94p-YP-tJ7.placeholder" = "Input drop place";
+
+/* Class = "UILabel"; text = "123"; ObjectID = "9Nq-3h-UUR"; */
+"9Nq-3h-UUR.text" = "123";
+
+/* Class = "UITextField"; text = "BAGS"; ObjectID = "A5g-IK-SFu"; */
+"A5g-IK-SFu.text" = "BAGS";
+
+/* Class = "UILabel"; text = "Sun"; ObjectID = "Aas-yn-f30"; */
+"Aas-yn-f30.text" = "Sun";
+
+/* Class = "UILabel"; text = "$250"; ObjectID = "Ae6-rW-nUg"; */
+"Ae6-rW-nUg.text" = "$250";
+
+/* Class = "UILabel"; text = "123"; ObjectID = "Aqz-y7-gk0"; */
+"Aqz-y7-gk0.text" = "123";
+
+/* Class = "UILabel"; text = "Shipping fee"; ObjectID = "B9s-JG-9r9"; */
+"B9s-JG-9r9.text" = "Shipping fee";
+
+/* Class = "UILabel"; text = "You may also like"; ObjectID = "BIB-x8-Fs9"; */
+"BIB-x8-Fs9.text" = "You may also like";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "Bq5-hX-PAE"; */
+"Bq5-hX-PAE.text" = "Cash";
+
+/* Class = "UILabel"; text = "Item cost"; ObjectID = "F7k-kI-72C"; */
+"F7k-kI-72C.text" = "Item cost";
+
+/* Class = "UILabel"; text = "Yellow NO.1"; ObjectID = "FQh-V8-Prg"; */
+"FQh-V8-Prg.text" = "Yellow NO.1";
+
+/* Class = "UILabel"; text = "440$"; ObjectID = "GTK-b4-GJV"; */
+"GTK-b4-GJV.text" = "440$";
+
+/* Class = "UILabel"; text = "21 Nguyễn Trung Ngạn, Q1, Tp.HCM"; ObjectID = "Gk0-JM-mNH"; */
+"Gk0-JM-mNH.text" = "21 Nguyễn Trung Ngạn, Q1, Tp.HCM";
+
+/* Class = "UILabel"; text = "Yellow NO.1"; ObjectID = "HIE-xw-8Lg"; */
+"HIE-xw-8Lg.text" = "Yellow NO.1";
+
+/* Class = "UIButton"; normalTitle = "Write comment"; ObjectID = "Her-Oz-FSf"; */
+"Her-Oz-FSf.normalTitle" = "Write comment";
+
+/* Class = "UILabel"; text = "YOU MAY ALSO LIKE"; ObjectID = "Hm1-po-H4N"; */
+"Hm1-po-H4N.text" = "YOU MAY ALSO LIKE";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "Jcp-Qa-IXB"; */
+"Jcp-Qa-IXB.normalTitle" = "1";
+
+/* Class = "UILabel"; text = "September, 2016"; ObjectID = "KRJ-8D-BMY"; */
+"KRJ-8D-BMY.text" = "September, 2016";
+
+/* Class = "UILabel"; text = "21 Nguyễn Trung Ngạn, Q1, Tp.HCM"; ObjectID = "LCE-FX-bWq"; */
+"LCE-FX-bWq.text" = "21 Nguyễn Trung Ngạn, Q1, Tp.HCM";
+
+/* Class = "UILabel"; text = "1,000,000đ"; ObjectID = "MfL-vV-0Ea"; */
+"MfL-vV-0Ea.text" = "1,000,000đ";
+
+/* Class = "UILabel"; text = "October, 2016"; ObjectID = "Mko-sY-ChQ"; */
+"Mko-sY-ChQ.text" = "October, 2016";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "Nap-Sp-ZYr"; */
+"Nap-Sp-ZYr.text" = "Cash";
+
+/* Class = "UILabel"; text = "Yellow NO.1"; ObjectID = "Ncd-WR-WE4"; */
+"Ncd-WR-WE4.text" = "Yellow NO.1";
+
+/* Class = "UILabel"; text = "Ao dai building"; ObjectID = "Nk0-6L-4Rc"; */
+"Nk0-6L-4Rc.text" = "Ao dai building";
+
+/* Class = "UILabel"; text = "5$"; ObjectID = "Pux-rh-aic"; */
+"Pux-rh-aic.text" = "5$";
+
+/* Class = "UILabel"; text = "MEDIUM"; ObjectID = "Qmb-Hx-RTb"; */
+"Qmb-Hx-RTb.text" = "MEDIUM";
+
+/* Class = "UILabel"; text = "360 $"; ObjectID = "RMw-Rs-305"; */
+"RMw-Rs-305.text" = "360 $";
+
+/* Class = "UITextField"; placeholder = "1122"; ObjectID = "RQJ-s7-5nf"; */
+"RQJ-s7-5nf.placeholder" = "1122";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "S8v-iT-qhC"; */
+"S8v-iT-qhC.normalTitle" = "2";
+
+/* Class = "UILabel"; text = "About this item"; ObjectID = "Sft-kv-AF3"; */
+"Sft-kv-AF3.text" = "About this item";
+
+/* Class = "UILabel"; text = "Trước cuộc bầu cử tổng thống vào tháng 11, Obama và các trợ lý của ông tỏ ý rằng ông sẽ hạn chế dính líu đến chính trị trong tương lai và tập trung vào việc viết hồi ký, mở rộng chương trình từ Trước cuộc bầu cử tổng thống vào tháng 11, Obama và các "; ObjectID = "TcR-Zm-3xd"; */
+"TcR-Zm-3xd.text" = "Trước cuộc bầu cử tổng thống vào tháng 11, Obama và các trợ lý của ông tỏ ý rằng ông sẽ hạn chế dính líu đến chính trị trong tương lai và tập trung vào việc viết hồi ký, mở rộng chương trình từ Trước cuộc bầu cử tổng thống vào tháng 11, Obama và các ";
+
+/* Class = "UILabel"; text = "440$"; ObjectID = "VTO-VQ-JuV"; */
+"VTO-VQ-JuV.text" = "440$";
+
+/* Class = "UILabel"; text = "LOW"; ObjectID = "VcF-Q4-vsT"; */
+"VcF-Q4-vsT.text" = "LOW";
+
+/* Class = "UILabel"; text = "Yellow NO.1"; ObjectID = "WHB-T3-M4B"; */
+"WHB-T3-M4B.text" = "Yellow NO.1";
+
+/* Class = "UILabel"; text = "Ao dai building"; ObjectID = "WYf-yT-6Iq"; */
+"WYf-yT-6Iq.text" = "Ao dai building";
+
+/* Class = "UILabel"; text = "18"; ObjectID = "Wh2-ya-dc4"; */
+"Wh2-ya-dc4.text" = "18";
+
+/* Class = "UILabel"; text = "21 Nguyễn Trung Ngạn"; ObjectID = "Wtp-87-pSx"; */
+"Wtp-87-pSx.text" = "21 Nguyễn Trung Ngạn";
+
+/* Class = "UITextField"; placeholder = "Input drop place"; ObjectID = "XH5-tj-uPW"; */
+"XH5-tj-uPW.placeholder" = "Input drop place";
+
+/* Class = "UILabel"; text = "21 Nguyễn Trung Ngạn, Q1, Tp.HCM"; ObjectID = "YPZ-ww-btl"; */
+"YPZ-ww-btl.text" = "21 Nguyễn Trung Ngạn, Q1, Tp.HCM";
+
+/* Class = "UIButton"; normalTitle = "Add to cart"; ObjectID = "ZS5-AR-KUG"; */
+"ZS5-AR-KUG.normalTitle" = "Add to cart";
+
+/* Class = "UILabel"; text = "Item cost"; ObjectID = "Zcx-gJ-S7j"; */
+"Zcx-gJ-S7j.text" = "Item cost";
+
+/* Class = "UILabel"; text = "Thanh Bui"; ObjectID = "aF3-fe-hjH"; */
+"aF3-fe-hjH.text" = "Thanh Bui";
+
+/* Class = "UILabel"; text = "Trước cuộc bầu cử tổng thống vào tháng 11, Obama và các trợ lý của ông tỏ ý rằng ông sẽ hạn chế dính líu đến chính trị trong tương lai và tập trung vào v"; ObjectID = "al0-XD-s8c"; */
+"al0-XD-s8c.text" = "Trước cuộc bầu cử tổng thống vào tháng 11, Obama và các trợ lý của ông tỏ ý rằng ông sẽ hạn chế dính líu đến chính trị trong tương lai và tập trung vào v";
+
+/* Class = "UILabel"; text = "HIGH"; ObjectID = "ayA-ER-g3k"; */
+"ayA-ER-g3k.text" = "HIGH";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bVI-nQ-tR1"; */
+"bVI-nQ-tR1.text" = "Label";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "cJd-5V-XIs"; */
+"cJd-5V-XIs.text" = "Total";
+
+/* Class = "UILabel"; text = "18"; ObjectID = "dty-MA-m01"; */
+"dty-MA-m01.text" = "18";
+
+/* Class = "UILabel"; text = "SHOP BOMBER JOY"; ObjectID = "eKj-ho-A54"; */
+"eKj-ho-A54.text" = "SHOP BOMBER JOY";
+
+/* Class = "UILabel"; text = "Patriot"; ObjectID = "ea7-y2-DeL"; */
+"ea7-y2-DeL.text" = "Patriot";
+
+/* Class = "UITextField"; placeholder = "Input drop place"; ObjectID = "fo7-MH-q1V"; */
+"fo7-MH-q1V.placeholder" = "Input drop place";
+
+/* Class = "UITextField"; placeholder = "123"; ObjectID = "foU-WS-7uE"; */
+"foU-WS-7uE.placeholder" = "123";
+
+/* Class = "UILabel"; text = "Sun"; ObjectID = "fvz-2c-uyf"; */
+"fvz-2c-uyf.text" = "Sun";
+
+/* Class = "UILabel"; text = "SHOP BOMBER JOY"; ObjectID = "hBB-p5-725"; */
+"hBB-p5-725.text" = "SHOP BOMBER JOY";
+
+/* Class = "UILabel"; text = "21 Nguyen Trung Ngan"; ObjectID = "jpm-M2-7kD"; */
+"jpm-M2-7kD.text" = "21 Nguyen Trung Ngan";
+
+/* Class = "UILabel"; text = "SHOP BOMBER JOY"; ObjectID = "lpg-IU-hBY"; */
+"lpg-IU-hBY.text" = "SHOP BOMBER JOY";
+
+/* Class = "UILabel"; text = "SHOP BOMBER JOY"; ObjectID = "mPx-6L-HvN"; */
+"mPx-6L-HvN.text" = "SHOP BOMBER JOY";
+
+/* Class = "UILabel"; text = "21 Nguyen Trung Ngan"; ObjectID = "nPG-dE-3GU"; */
+"nPG-dE-3GU.text" = "21 Nguyen Trung Ngan";
+
+/* Class = "UILabel"; text = "$250"; ObjectID = "nyT-bE-Aas"; */
+"nyT-bE-Aas.text" = "$250";
+
+/* Class = "UILabel"; text = "Shipping fee"; ObjectID = "oRg-Fs-1nk"; */
+"oRg-Fs-1nk.text" = "Shipping fee";
+
+/* Class = "UILabel"; text = "3$"; ObjectID = "oYR-6o-wL4"; */
+"oYR-6o-wL4.text" = "3$";
+
+/* Class = "UILabel"; text = "360 $"; ObjectID = "q9Q-JI-0MU"; */
+"q9Q-JI-0MU.text" = "360 $";
+
+/* Class = "UILabel"; text = "5$"; ObjectID = "qhh-70-ffz"; */
+"qhh-70-ffz.text" = "5$";
+
+/* Class = "UILabel"; text = "Online Payment"; ObjectID = "sr1-Ki-vRT"; */
+"sr1-Ki-vRT.text" = "Online Payment";
+
+/* Class = "UILabel"; text = "1.000.000đ"; ObjectID = "tF8-en-PhR"; */
+"tF8-en-PhR.text" = "1.000.000đ";
+
+/* Class = "UILabel"; text = "Service fee"; ObjectID = "uSS-gV-tIA"; */
+"uSS-gV-tIA.text" = "Service fee";
+
+/* Class = "UILabel"; text = "$280"; ObjectID = "v9X-zS-gXK"; */
+"v9X-zS-gXK.text" = "$280";
+
+/* Class = "UILabel"; text = "Online Payment"; ObjectID = "vCz-4h-gMt"; */
+"vCz-4h-gMt.text" = "Online Payment";
+
+/* Class = "UILabel"; text = "$250"; ObjectID = "y6o-xf-Jjv"; */
+"y6o-xf-Jjv.text" = "$250";
